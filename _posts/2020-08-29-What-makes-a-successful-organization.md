@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What makes a successful organization?
-description: "Five Ideals of Production and Deployment"
+title: Coming Soon 
+description: Coming Soon
 comments: true
 ---
 
-## Coming Soon
+
