@@ -6,7 +6,7 @@ This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minima
 
 ## How to Edit.
 - To edit front page open ```index.md``` 
-- To edit curriculum page open ```cv.md```
+- To edit curriculum page open ```cv.md``` for indepth edits go to `_layouts/cv.html`
 - To edit Publications open forget about it for now.
 - To edit code page open ```code.md```.
 - To edit blog page open ```blog.md```.
